@@ -26,5 +26,5 @@ modules:
     sources:
       - type: git
         url: https://codeberg.org/fishn/godl.git
-        commit: a076e736a0fd466abe4f320acbb72e56e276e56f
-        tag: v1.4.3
+        commit: 68ed989ac8ef827434240881411ac31297d92861
+        tag: v1.4.4
